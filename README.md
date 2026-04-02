@@ -1,7 +1,7 @@
 ### Hi there, I'm Arsheya 👋 
 
 
-## I'm a Student📚, Developer👨‍💻, and Gamer🎮
+## I'm a Developer👨‍💻
 
 - 🔭 I'm currently undergoing my final year studying Computer Science at the University of Hertfordshire.
 - 🌱 I’m currently learning as much as i can.
